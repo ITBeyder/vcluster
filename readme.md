@@ -366,4 +366,4 @@ curl http://vcluster.minikube.local/v2
 
 This setup allows for simulating multiple isolated clusters within a single Minikube instance, providing an environment where developers can test cross-cluster routing and ingress configurations locally.
 
-all the yamls used in this project you can find here → [github](https://github.com/ITBeyder/vcluster/)
+medium → [medium](https://medium.com/@itaybeyder_76401/running-multiple-kubernetes-clusters-locally-using-minikube-and-vclusters-a-guide-to-3482f1ed61f8)
